@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://img.iasui.com/upload/website_attach/osgE6tumoT71Vt+GqFG36vONJEGXJ9pOpuTB6DhdWh7kXR4RsAuV3TgcjFBAiOXAsTwE4WPyU.jpeg" style="height:15cm;">
+    <form onsubmit="judge(this.ans.value">
+        <input type="text"id="ans" placeholder="阿巴阿巴阿巴">
+        <input type="submit">
+    </form>
+    <script>
+        alert("隊輔好可愛")
+        function judge(ans)
+        {
+            event.preventDefault();
+            if(ans=="左")    
+         {
+             alert("你真機智")
+             window
+         }
+        }
+    </script>
+
+</body>
+</html> 
